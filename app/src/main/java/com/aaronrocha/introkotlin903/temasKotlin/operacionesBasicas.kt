@@ -1,7 +1,6 @@
 package com.aaronrocha.introkotlin903.temasKotlin
 
 fun main() {
-
     do{
         print("Selecciona que operacion deseas hacer \n1.Suma  \n2.Resta \n3.Multiplicacion \n4.Division \n5.SALIR")
         val opcion = readln().toInt()
@@ -41,9 +40,6 @@ fun main() {
         }
         if (opcion == 5)
             print("Saliendo.....")
-
-
     }while(opcion != 5)
-
-    
 }
+
