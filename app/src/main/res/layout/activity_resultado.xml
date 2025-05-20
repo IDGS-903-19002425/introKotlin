@@ -11,7 +11,7 @@
         android:id="@+id/tvResultado"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        tools:text="Esto es un gruñido"
+        tools:text="Esto es una prueba"
         android:textSize="35sp"
         android:layout_gravity="center"
         android:textColor="@color/purple_200"
